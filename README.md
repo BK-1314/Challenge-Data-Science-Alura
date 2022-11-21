@@ -7,7 +7,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | Python, PySpark, Colab
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | www.alura.com.br/challenges/data-science-2](https://www.alura.com.br/challenges/data-science-2/)
+| :fire: Desafio     | [www.alura.com.br/challenges/data-science-2](https://www.alura.com.br/challenges/data-science-2/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
