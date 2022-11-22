@@ -5,7 +5,7 @@ Outra dor do time é a recomendação de imóveis, uma vez que um cliente ou uma
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | ** Improvement no Sistema de Avaliação de Imóveis - InsidePlace **
+| :sparkles: Nome        | **Improvement no Sistema de Avaliação de Imóveis - InsidePlace**
 | :label: Tecnologias | Python, PySpark, Colab, jupiter notebook, Apache, BigData
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | [www.alura.com.br/challenges/data-science-2](https://www.alura.com.br/challenges/data-science-2/)
