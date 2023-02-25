@@ -28,5 +28,7 @@ Em seguida, foram realizadas transformações nas outras colunas que continham v
 
 Essas etapas foram realizadas utilizando recursos do PySpark, como pyspark.sql.functions, zipfile e pyspark.sql.types, visando lidar com grandes volumes de dados de forma eficiente. As análises e tratamentos realizados permitirão a construção de um modelo de regressão para precificar imóveis e a criação de um recomendador de imóveis para a InsightPlaces, contribuindo para superar as dificuldades da empresa em alugar e vender imóveis na cidade do Rio de Janeiro.
 
+### [Veja todo Tratamento de dados da semana 1 Aqui](https://github.com/BK-1314/Challenge-Data-Science-Alura/blob/main/Challenge%20Semana%201/Tratamento_Dados_InsightPlaces.ipynb)
+
 
 ###### Esse projeto faz parte do Challenge de Data Science da Altura, e tem como objetivo pôr em prática os conhecimentos as skills relacionadas com um cientista de dados em um contexto real, simulando uma atuação real dentro de uma empresa.
