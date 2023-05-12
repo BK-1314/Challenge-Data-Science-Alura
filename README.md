@@ -12,7 +12,7 @@ Outra dor do time é a recomendação de imóveis, uma vez que um cliente ou uma
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Vitrine](https://github.com/BK-1314/Challenge-Data-Science-Alura/blob/main/Material%20de%20Apoio/Imagens/Vitrine%20Challenge%20Data%20Science%20Alura.png)
+![Vitrine](https://github.com/BK-1314/Challenge-Data-Science-Alura/blob/main/Material%20de%20Apoio/Imagens/Vitrine%20Challenge%20Data%20Science%20Alura.png)#vitrinedev
 
 
 ## Semana 1 de Projeto
